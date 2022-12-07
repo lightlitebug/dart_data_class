@@ -66,7 +66,7 @@ class Person {
 
   @override
   String toString() {
-    return "Person(id: $id, $name: $name, email: $email)";
+    return "Person(id: $id, name: $name, email: $email)";
   }
 
   @override
